@@ -785,6 +785,11 @@ footer {
     .cta-content h2 {
         font-size: 2rem;
     }
+
+    /* Hide design image on small screens */
+    .design-image {
+        display: none;
+    }
 }
 
 /* Animations on Scroll */
